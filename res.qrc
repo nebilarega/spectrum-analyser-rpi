@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>beautify.qss</file>
+    </qresource>
+</RCC>

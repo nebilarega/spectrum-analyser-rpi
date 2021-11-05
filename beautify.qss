@@ -1,0 +1,23 @@
+*{
+    background: rgb(192,192,192);
+}
+QHBoxLayout{
+    color: blue;
+ }
+QPushButton#chooseTech:hover{
+    background-color: green;
+}
+QPushButton#cancelChoice:hover{
+    background-color: red;
+}
+QComboBox{
+    background-color: gray;
+}
+QLabel#welcome{
+    font-weight: bold;
+    font-size: 50;
+    font-style: italic;
+}
+QLabel{
+    font-weight: bold;
+}
